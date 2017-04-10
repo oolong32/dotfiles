@@ -1,0 +1,1 @@
+markdown-1.2.2.vba: call delete('/Users/jrenner/.vim/ftdetect/markdown.vim')|call delete('/Users/jrenner/.vim/snippets/markdown.snippets')|call delete('/Users/jrenner/.vim/syntax/markdown.vim')

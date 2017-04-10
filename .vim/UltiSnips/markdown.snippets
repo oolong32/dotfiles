@@ -1,0 +1,54 @@
+snippet link
+[${1:linked text}](${2:url})
+endsnippet
+
+snippet !
+![${1:alt text}](${2:filename}.${3:jpg})
+endsnippet
+
+snippet code
+\`\`\`
+	$1
+\`\`\`
+endsnippet
+
+snippet winter
+---
+title: "$1"
+author: "$2"
+date: ${3:`date +%d.%m.%Y`}
+template: ${4:article.jade}
+---
+
+${5:Insert teaser}
+
+<span class="more"></span>
+
+${6:Insert main text}
+endsnippet
+
+snippet beschrieb
+# ${1:Name}
+
+## Arbeitstitel ${2:Projekt}
+
+### Kunde
+
+${3:Beschrieb Kunde}
+
+### Leser/Nutzer
+
+${4:Beschrieb User}
+
+### Inhalte
+
+${5:Beschrieb Inhalte}
+
+### Umfang
+
+${6:Beschrieb Umfang}
+
+### Recherche
+
+${7:Beschrieb Recherche}
+endsnippet 

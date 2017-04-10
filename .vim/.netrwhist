@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jrenner/Sites/craft/craft/templates/kurse'
+let g:netrw_dirhist_2='/Users/jrenner/JavaScript/domExperiments/cellularAutomaton'
+let g:netrw_dirhist_3='/private/var/folders/y5/rk82y15s32j9zf_xlnw8w4kdrq290b/T/632a8d15-e09a-44e9-be72-6eaca8854ec6/public_html/www/craft/craft/templates/kurse'
+let g:netrw_dirhist_4='/private/var/folders/y5/rk82y15s32j9zf_xlnw8w4kdrq290b/T/632a8d15-e09a-44e9-be72-6eaca8854ec6/public_html/www/craft/craft/templates/kontakt'
+let g:netrw_dirhist_5='/Users/jrenner/JavaScript/learn_js_dev/src/client'
+let g:netrw_dirhist_6='/Users/jrenner/Desktop/gaultMillau/GM_HTML_Anzeigen/rectangle/rectNieder'
+let g:netrw_dirhist_7='/Users/jrenner/Desktop/gaultMillau/GM_HTML_Anzeigen/rectangle/rectZandonella'
+let g:netrw_dirhist_8='/Users/jrenner/Desktop/gaultMillau/GM_HTML_Anzeigen/rectangle/rectGrandits'
